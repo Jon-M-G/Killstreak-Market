@@ -1,0 +1,160 @@
+Killstreak Kit:                                              Kit Prices:     Fab Prices:     Viability:        Potential Profit:
+Professional Killstreak Medi Gun Kit                         $67.44          $52.51          UNVIABLE                
+Professional Killstreak Rocket Launcher Kit                  $60.95          $57.00          UNVIABLE                
+Professional Killstreak Flame Thrower Kit                    $55.57          $42.55          UNVIABLE                
+Professional Killstreak Scattergun Kit                       $47.97          $41.49          UNVIABLE                
+Professional Killstreak Minigun Kit                          $47.15          $41.40          UNVIABLE                
+Professional Killstreak Stickybomb Launcher Kit              $43.62          $29.98          VIABLE            $2.10 
+Professional Killstreak Sniper Rifle Kit                     $40.78          $32.20          UNVIABLE                
+Professional Killstreak Grenade Launcher Kit                 $37.00          $28.00          UNVIABLE                
+Professional Killstreak Wrench Kit                           $34.52          $19.73          VIABLE            $4.61 
+Professional Killstreak Iron Bomber Kit                      $33.99          $27.66          UNVIABLE                
+Professional Killstreak Tomislav Kit                         $33.84          $19.66          VIABLE            $4.10 
+Professional Killstreak Original Kit                         $29.55          $13.89          VIABLE            $6.23 
+Professional Killstreak Degreaser Kit                        $29.11          $34.50          UNVIABLE                
+Professional Killstreak Knife Kit                            $29.00          $24.39          UNVIABLE                
+Professional Killstreak Shotgun Kit                          $27.80          $23.60          UNVIABLE                
+Professional Killstreak Eyelander Kit                        $24.38          $20.38          UNVIABLE                
+Professional Killstreak Kritzkrieg Kit                       $22.38          $15.57          UNVIABLE                
+Professional Killstreak Conniver's Kunai Kit                 $22.37          $15.78          UNVIABLE                
+Professional Killstreak AWPer Hand Kit                       $21.41          $12.01          VIABLE            $1.19 
+Professional Killstreak Black Box Kit                        $20.90          $13.63          UNVIABLE                
+Professional Killstreak Frying Pan Kit                       $20.20          $11.76          VIABLE            $0.41 
+Professional Killstreak Jag Kit                              $18.17          $9.00           VIABLE            $1.44 
+Professional Killstreak Frontier Justice Kit                 $17.67          $5.44           VIABLE            $4.58 
+Professional Killstreak Rescue Ranger Kit                    $16.93          $4.44           VIABLE            $4.95 
+Professional Killstreak Ambassador Kit                       $16.29          $5.68           VIABLE            $3.17 
+Professional Killstreak Crusader's Crossbow Kit              $15.87          $9.81           UNVIABLE                
+Professional Killstreak Phlogistinator Kit                   $15.02          $6.92           VIABLE            $0.85 
+Professional Killstreak Shooting Star Kit                    $13.81          $3.29           VIABLE            $3.45 
+Professional Killstreak Bazaar Bargain Kit                   $13.99          $7.79           UNVIABLE                
+Professional Killstreak Iron Curtain Kit                     $13.95          $4.86           VIABLE            $2.00 
+Professional Killstreak Black Rose Kit                       $13.89          $2.96           VIABLE            $3.85 
+Professional Killstreak Neon Annihilator Kit                 $12.96          $0.08           VIABLE            $5.94 
+Professional Killstreak Killing Gloves of Boxing Kit         $13.06          $0.06           VIABLE            $6.04 
+Professional Killstreak Quick-Fix Kit                        $12.33          $4.52           VIABLE            $0.96 
+Professional Killstreak Conscientious Objector Kit           $11.69          $7.22           UNVIABLE                
+Professional Killstreak Gunslinger Kit                       $11.47          $10.92          UNVIABLE                
+Professional Killstreak Direct Hit Kit                       $11.27          $4.52           VIABLE            $0.06 
+Professional Killstreak Panic Attack Kit                     $10.86          $5.33           UNVIABLE                
+Professional Killstreak Pistol Kit                           $10.86          $4.50           UNVIABLE                
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
+Professional Killstreak Force-A-Nature Kit                   $10.86          $4.92           UNVIABLE                
+Professional Killstreak SMG Kit                              $10.69          $5.00           UNVIABLE                
+Professional Killstreak Market Gardener Kit                  $10.39          $3.45           VIABLE            $0.38 
+Professional Killstreak Brass Beast Kit                      $10.04          $4.15           UNVIABLE                
+Professional Killstreak Huntsman Kit                         $10.00          $4.16           UNVIABLE                
+Professional Killstreak Loose Cannon Kit                     $9.79           $4.52           UNVIABLE                
+Professional Killstreak Beggar's Bazooka Kit                 $9.38           $3.30           UNVIABLE                
+Professional Killstreak Pain Train Kit                       $9.60           $0.04           VIABLE            $3.12 
+Professional Killstreak Boston Basher Kit                    $9.03           $0.05           VIABLE            $2.63 
+Professional Killstreak Maul Kit                             $8.94           $0.05           VIABLE            $2.55 
